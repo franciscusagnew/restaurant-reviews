@@ -9,7 +9,7 @@ Student Project for Google Front-End Development Nanodegree Program at Udacity
 
 ## About the project
 
-**Restaurant Reviews** is a project with Udacity and Google Scholarship program for the FEND Track. A Google Maps component is used for displaying the restaurant locations daily around New York City. It has been developed to be accessible for screen readers and fully responsive on different sized displays. There is also a service worker employed to offer a seamless offline experience for users.
+**Restaurant Reviews** is a project with Udacity and Google Scholarship program for the FEND Track. A maps component is used for displaying the restaurant locations daily around New York City. It has been developed to be accessible for screen readers and fully responsive on different sized displays. There is also a service worker employed to offer a seamless offline experience for users.
 
 ## How to Run Application
 
